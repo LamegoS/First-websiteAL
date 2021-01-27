@@ -1,0 +1,30 @@
+*{padding: 0%; margin: 0;}
+main{ 
+    display: flex;
+    width: auto;
+    height: 85vh;
+}
+
+header{ 
+    display: flex;
+    width: 100%;
+    height: 15vh;
+}
+
+nav{ 
+    display: flex;
+    display: block;
+    width: 50%;
+    justify-content: space-around;
+}
+nav a{ 
+     text-decoration: solid;
+     color: black;
+}
+.navigation{ 
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
